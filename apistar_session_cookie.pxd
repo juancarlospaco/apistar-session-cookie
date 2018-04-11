@@ -1,3 +1,4 @@
+# cython: language_level=3, boundscheck=False, wraparound=False, cdivision=True
 
 cdef:
     char* __version__
