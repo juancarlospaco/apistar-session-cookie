@@ -90,6 +90,7 @@ pip install apistar_session_cookie
 # Requisites:
 
 - [Apistar](https://github.com/encode/apistar)
+- Cryptography
 
 
 # Tests
